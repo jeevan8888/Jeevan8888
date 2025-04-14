@@ -1,60 +1,21 @@
-# 👋 Hi there!  
+** Full-Stack Engineer & E-Commerce Website Developer **
 
-## **Lead Engineer | Full-Stack & Blockchain Developer | Product Strategist**  
+Results-driven E-Commerce Website Developer with expertise in full-stack development, scalable architectures, and high-performance online stores. 
+Passionate about building secure, user-friendly, and revenue-driven e-commerce solutions, I specialize in modern technologies like React/Next.js, Vue/Nuxt.js, PHP(Laravel/CI/Symfony), Node.js(ExpressJS/NestJS), and headless commerce platforms.
 
-Results-driven **Lead Engineer** with **Product Management** and **Business Strategy** experience. With over a decade of expertise in software engineering, I specialize in designing and optimizing **scalable, high-performance applications** across **eCommerce, Supply Chain, Asset Management, and Finance** domains.  
+💡 Key Expertise:
+✔️ E-Commerce Development: Custom-built platforms, multi-vendor marketplaces, headless commerce
+✔️ Frontend Technologies: React, Next.js, Vue.js, Nuxt.js, Tailwind CSS, SEO & Core Web Vitals optimization
+✔️ Backend Technologies: PHP(Laravel, CodeIgnitor, Symfony), Node.js (NestJS, ExpressJS), Ruby, RESTful APIs, GraphQL (Apollo, Hasura)
+✔️ Database & Performance: MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, caching & indexing
+✔️ Payment & Checkout: Stripe, PayPal, BNPL (Klarna, Affirm), crypto payments, PCI DSS compliance
+✔️ Shipping & Order Management: FedEx, DHL, UPS API, real-time tracking, automated inventory
+✔️ Security & Compliance: GDPR, OWASP Top 10, Role-Based Access Control (RBAC), MFA
+✔️ DevOps & Cloud Deployment: AWS, Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI/CD)
+✔️ AI & Automation: AI-powered product recommendations, chatbots, dynamic pricing
 
-I maintain a **hands-on approach to engineering**, continuously honing my technical skills to drive **innovation and efficiency** in both Web2 and Web3 ecosystems.  
-
----
-
-## **👨‍💻 Technical Expertise**  
-### **Full-Stack Development**  
-- **Languages**: PHP, Go, TypeScript, JavaScript  
-- **Frameworks**: Next.js, Nuxt.js, NestJS, Laravel, Symfony  
-- **Infrastructure & Databases**: PostgreSQL, MongoDB, MySQL, DynamoDB, Redis, AWS, Docker  
-
-### **Blockchain Development**  
-- **Smart Contract Programming**: Solidity, Rust, Haskell  
-- **Ecosystems**: Ethereum, Cardano, Sui, Aptos, Move-based chains  
-- **DApp & DeFi Development**: Tokenization, Staking, Automated Market Makers (AMMs)  
-
-### **Security & System Architecture**  
-- **Security Best Practices**: Smart contract audits, Web2 & Web3 security  
-- **Performance Optimization**: Scalable backend systems, real-time analytics  
-
----
-
-## **🔭 Current Projects**  
-### **🚀 Chargeback Alert System**  
-- Developing a robust **chargeback management system** integrated with **Ethoca**, with future expansion to **Stripe, Shopify, and other platforms**.  
-- Leveraging **NestJS, PostgreSQL, and event-driven architecture** for real-time alerts.  
-
-### **💎 Kaspa Token Project**  
-- Building innovative blockchain solutions on **Kaspa**, using **NestJS** for backend services and blockchain interactions.  
-- Exploring high-speed, parallel processing capabilities for transaction efficiency.  
-
----
-
-## **🤝 Open to Collaborations**  
-I am actively looking to collaborate on:  
-✅ **Blockchain-based projects & DeFi applications**  
-✅ **Advanced frontend frameworks (React, Vue, Next.js, Nuxt.js)**  
-✅ **Developer tools & automation solutions**  
-
----
-
-## **💬 Let’s Talk About**  
-- **Building scalable eCommerce & POS systems**  
-- **Best practices for NestJS and React development**  
-- **Strategies for handling large-scale infrastructure and data processing**  
-
----
-
-## **📬 Connect With Me**  
-📧 **Email**: lion9200.world@gmail.com  
-
----
-
-## **😄 Fun Fact**  
-When I’m not coding, I share **spine-chilling stories** on my YouTube channel, blending **storytelling and technology** in [Shadow Secrets](https://www.youtube.com/shadowsecrets).  
+Proven track record of delivering high-converting, scalable, and secure e-commerce platforms that enhance user experience and drive revenue growth. 
+Seeking new opportunities to contribute expertise in developing cutting-edge e-commerce solutions that redefine online shopping. 🚀
+If you're looking for someone to bring your vision to life, don't hesitate to reach out anytime.
+Let's make your dream project a reality! ✨
+Thank you! 🙏
