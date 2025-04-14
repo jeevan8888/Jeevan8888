@@ -31,7 +31,7 @@ I care deeply about:
 
 ## 🛰 Remote-Ready, Global-Minded
 
-I’ve worked with teams across Singapore, the US, UAE, Australia, and Europe. I’m adaptable to fully remote setups, async collaboration, and multi-time zone workflows. Whether it's Slack, Jira, or a well-timed Loom — I stay visible, proactive, and aligned with the team.
+I’ve worked with teams across Poland, Singapore, the US, UAE, Australia, and Europe. I’m adaptable to fully remote setups, async collaboration, and multi-time zone workflows. Whether it's Slack, Jira, or a well-timed Loom — I stay visible, proactive, and aligned with the team.
 
 ---
 
