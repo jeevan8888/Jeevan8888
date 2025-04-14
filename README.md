@@ -2,14 +2,14 @@
 
 ### Senior Full Stack Developer | Code Artisan | UI/UX-Driven Problem Solver
 
-I’m a full-stack developer who thrives at the intersection of **modern frontend frameworks** and **powerful backend architecture**. Whether it's crafting dynamic user experiences with **React**, **SvelteKit**, or **Vue**, or building scalable APIs using **.NET Core**, **Node.js**, **Django**, or **Ruby on Rails** — I bring products to life from pixel to production.
+I’m a full-stack developer who thrives at the intersection of **modern frontend frameworks** and **powerful backend architecture**. Whether it's crafting dynamic user experiences with **React**, **SvelteKit**, or **Vue**, or building scalable APIs using **.NET Core**, **Node.js** or **PHP** — I bring products to life from pixel to production.
 
 ---
 
 ## 🔧 What I Do
 
 - **Frontend**: React/Next.js, Svelte/SvelteKit, Vue/Nuxt.js, Angular
-- **Backend**: .NET Core/WebAPI, Node.js (Express/NestJS), Django, Ruby on Rails, Laravel, Symfony
+- **Backend**: .NET Core/WebAPI, Node.js (Express/NestJS), Laravel, Symfony
 - **Languages**: JavaScript, TypeScript, Python, PHP, Ruby
 - **Databases**: PostgreSQL, MySQL, MongoDB, SQL Server
 - **Dev Tools**: Git, Azure DevOps, Docker, AWS (EC2, S3, Elastic Beanstalk)
