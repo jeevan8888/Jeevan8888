@@ -1,37 +1,45 @@
-👋 Hi there!
-Lead Engineer | Full-Stack Developer | Product Strategist
-Results-driven Lead Engineer with Product Management and Business Strategy experience. 
-With over a decade of expertise in software engineering, I specialize in designing and optimizing scalable, high-performance applications across E-Commerce, Supply Chain, Asset Management, and Finance domains.
+# 👋 Hi there,
 
-I maintain a hands-on approach to engineering, continuously honing my technical skills to drive innovation and efficiency in both Web2 ecosystems.
+### Senior Full Stack Developer | Code Artisan | UI/UX-Driven Problem Solver
 
-👨‍💻 Technical Expertise
-Full-Stack Development
-Languages: PHP, TypeScript, JavaScript, Ruby
-Frameworks: React/Next.js, Vue/Nuxt.js, Node.js(ExpressJS/NestJS), Laravel, Symfony
-Infrastructure & Databases: PostgreSQL, MongoDB, MySQL, DynamoDB, Redis, AWS, Docker
+I’m a full-stack developer who thrives at the intersection of **modern frontend frameworks** and **powerful backend architecture**. Whether it's crafting dynamic user experiences with **React**, **SvelteKit**, or **Vue**, or building scalable APIs using **.NET Core**, **Node.js**, **Django**, or **Ruby on Rails** — I bring products to life from pixel to production.
 
-Security & System Architecture
-Security Best Practices: Smart contract audits, Web2 & Web3 security
-Performance Optimization: Scalable backend systems, real-time analytics
-🔭 Current Projects
-🚀 Chargeback Alert System
-Developing a robust chargeback management system integrated with Ethoca, with future expansion to Stripe, Shopify, and other platforms.
-Leveraging NestJS, PostgreSQL, and event-driven architecture for real-time alerts.
-💎 Kaspa Token Project
-Building innovative blockchain solutions on Kaspa, using NestJS for backend services and blockchain interactions.
-Exploring high-speed, parallel processing capabilities for transaction efficiency.
-🤝 Open to Collaborations
-I am actively looking to collaborate on:
-✅ Advanced frontend frameworks (React, Vue, Next.js, Nuxt.js)
-✅ Developer tools & automation solutions
+---
 
-💬 Let’s Talk About
-Building scalable eCommerce & POS systems
-Best practices for NestJS and React development
-Strategies for handling large-scale infrastructure and data processing
-📬 Connect With Me
-📧 Email: pass.nuo919@gmail.com
+## 🔧 What I Do
 
-😄 Fun Fact
-When I’m not coding, I share spine-chilling stories on my YouTube channel, blending storytelling and technology in Shadow Secrets.
+- **Frontend**: React/Next.js, Svelte/SvelteKit, Vue/Nuxt.js, Angular
+- **Backend**: .NET Core/WebAPI, Node.js (Express/NestJS), Django, Ruby on Rails, Laravel, Symfony
+- **Languages**: JavaScript, TypeScript, Python, PHP, Ruby
+- **Databases**: PostgreSQL, MySQL, MongoDB, SQL Server
+- **Dev Tools**: Git, Azure DevOps, Docker, AWS (EC2, S3, Elastic Beanstalk)
+- **Testing**: Jest, Cypress, Testing Library, xUnit, Postman
+- **Workflow**: Agile, Scrum, CI/CD, Code Reviews, Pair Programming
+
+---
+
+## 🧠 My Approach
+
+I care deeply about:
+- Writing clean, maintainable, and testable code
+- Building reusable, component-driven UIs
+- Optimising performance and scalability
+- Working closely with designers and stakeholders
+- Turning complex requirements into intuitive experiences
+
+---
+
+## 🛰 Remote-Ready, Global-Minded
+
+I’ve worked with teams across Singapore, the US, UAE, Australia, and Europe. I’m adaptable to fully remote setups, async collaboration, and multi-time zone workflows. Whether it's Slack, Jira, or a well-timed Loom — I stay visible, proactive, and aligned with the team.
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [superiorman816@gmail.com](mailto:superiorman816@gmail.com)
+
+---
+
+### “I don’t just build software — I help shape digital experiences that users love and businesses trust.”
+
