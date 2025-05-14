@@ -37,7 +37,7 @@ I’ve worked with teams across Poland, the US, UAE, Australia, and Europe. I’
 
 ## 📫 Let's Connect
 
-- 📧 Email: [superiorman816@gmail.com](mailto:superiorman816@gmail.com)
+- 📧 Email: [pass.nuo919@gmail.com](mailto:pass.nuo919@gmail.com)
 
 ---
 
