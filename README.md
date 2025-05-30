@@ -33,11 +33,6 @@ I care deeply about:
 
 I’ve worked with teams across Poland, the US, UAE, Australia, and Europe. I’m adaptable to fully remote setups, async collaboration, and multi-time zone workflows. Whether it's Slack, Jira, or a well-timed Loom — I stay visible, proactive, and aligned with the team.
 
----
-
-## 📫 Let's Connect
-
-- 📧 Email: [pass.nuo919@gmail.com](mailto:pass.nuo919@gmail.com)
 
 ---
 
